@@ -1,0 +1,6 @@
+{
+  "name": "Tic-Tac-Toe Local",
+  "description": "A tactile Tic-Tac-Toe game featuring local pass-and-play multiplayer, Bolt vanishing-piece mode, series scoring, and an optional computer opponent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
